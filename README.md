@@ -1,4 +1,4 @@
-# python-example-stack
+# Stack
 ![Status](https://github.com/icaoberg/python-example-stack/actions/workflows/main.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/icaoberg/python-example-stack)
 ![forks](https://img.shields.io/github/forks/icaoberg/python-example-stack)
