@@ -1,5 +1,6 @@
 # Stack
 ![Status](https://github.com/icaoberg/python-example-stack/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/icaoberg/python-example-stack/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/icaoberg/python-example-stack)
 ![forks](https://img.shields.io/github/forks/icaoberg/python-example-stack)
 ![Stars](https://img.shields.io/github/stars/icaoberg/python-example-stack)
